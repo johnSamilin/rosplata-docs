@@ -1,9 +1,5 @@
-Template for the Read the Docs tutorial
+Documentation repo for Rosplata
 =======================================
+Project repo: https://github.com/johnSamilin/rosplata
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Docs: https://rosplata-docs.readthedocs.io/en/latest/
